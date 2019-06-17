@@ -1,7 +1,7 @@
 ma recette
 INGREDIENTS
 ingrédients
- 3 oeufs
+ 30 oeufs
 sucre
 crème
 tartes_pommes
