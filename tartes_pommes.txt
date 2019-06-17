@@ -1,5 +1,6 @@
 tartes_pommes.txt
 ingrédients
-oeufs
+ 3 oeufs
 sucre
 crème
+tartes_pommes
